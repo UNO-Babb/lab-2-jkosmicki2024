@@ -20,5 +20,6 @@ num = num % 20 # 0 - 19
 question = input("Ask me a question.")
 print(answers[num]) 
 
+
 if __name__ == '__main__':
   main()
