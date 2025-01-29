@@ -6,6 +6,7 @@
 #We will need random for this program, import to use this package.
 import random
 
+
 def main():
   #Create a list of your responses.
   print("Magic 8 Ball")
