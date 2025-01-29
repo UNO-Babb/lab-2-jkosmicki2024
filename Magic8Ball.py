@@ -16,7 +16,7 @@ answers = ["Yes.", "No", "Don't count on it.", "Do count on it", "Ask later.", "
 num = random.random()
 num = num * 11
 num = int(num) 
-num = num % 20 # 0 - 19
+num = num % 7 # 0 - 6
 question = input("Ask me a question.")
 print(answers[num]) 
 
